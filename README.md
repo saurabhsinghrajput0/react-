@@ -1,0 +1,1 @@
+React JS is an open-source, component-based JavaScript library maintained by Meta (Facebook) and an open-source community, used primarily for designing declarative, highly performant User Interfaces (UIs). It is the foundation for rendering dynamic, stateful views on the client-side.
